@@ -1,4 +1,4 @@
-# docker-coturn
+# docker-rsync
 
 > A docker image for running rsync, built from `masm/archlinux`
 
